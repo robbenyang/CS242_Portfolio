@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- <link rel="shortcut icon" href="../../assets/ico/favicon.ico"> -->
+
+    <title>Zhengqiyang.com</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- Customized CSS for this page-->
+	<link href="css/jumbotron.css" rel="stylesheet">
+
+  </head>
+  <script> 
+    $(function(){
+      $("#header").load("header"); 
+      $("#footer").load("footer"); 
+    });
+    //Load svn_list and svn_log to js and set it global so that we don't have load many times.
+    var svn_list_json=$.ajax({
+      url:'/svn_list.json',
+      type:'post',
+      async:false});
+    var svn_list = JSON.parse(svn_list_json.responseText);
+    window.svn_list = svn_list.lists.list;
+  </script> 
+  <body>
+    <!--Load header-->
+    <div id="header"></div>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Welcome to my Portfolio</h1>
+        <p>This is a site with my cool CS 242 projects.</p>
+        <p><a class="btn btn-primary btn-lg" href="about" role="button">Learn more &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+       <div class="col-md-4">
+          <h2>Assignment0</h2>
+          <p><script type="text/javascript">
+          var lastCommit = null;
+          var entries = window.svn_list.entry;
+          for (var i = 0; i < entries.length; i++){
+            var entry = entries[i];
+            if(entry.name.indexOf("Assignment0") >= 0){
+              var commit = entry.commit;
+              if(lastCommit == null)
+                lastCommit = commit;
+              if(commit.revision > lastCommit.revision){
+                lastCommit = commit;
+              }
+            }
+          }
+          document.write("Last Modified date: "+lastCommit.date+"<br\>");
+          document.write("Last Commit Revision: "+lastCommit.revision+"<br\>");
+          </script></p>
+          <p><a class="btn btn-default" href="assignment0" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Assignment1.0</h2>
+                    <p><script type="text/javascript">
+          var lastCommit = null;
+          var entries = window.svn_list.entry;
+          for (var i = 0; i < entries.length; i++){
+            var entry = entries[i];
+            if(entry.name.indexOf("Assignment1.0") >= 0){
+              var commit = entry.commit;
+              if(lastCommit == null)
+                lastCommit = commit;
+              if(commit.revision > lastCommit.revision){
+                lastCommit = commit;
+              }
+            }
+          }
+          document.write("Last Modified date: "+lastCommit.date+"<br\>");
+          document.write("Last Commit Revision: "+lastCommit.revision+"<br\>");
+          </script></p>
+          <p><a class="btn btn-default" href="assignment10" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Assignment1.1</h2>
+                    <p><script type="text/javascript">
+          var lastCommit = null;
+          var entries = window.svn_list.entry;
+          for (var i = 0; i < entries.length; i++){
+            var entry = entries[i];
+            if(entry.name.indexOf("Assignment1.1") >= 0){
+              var commit = entry.commit;
+              if(lastCommit == null)
+                lastCommit = commit;
+              if(commit.revision > lastCommit.revision){
+                lastCommit = commit;
+              }
+            }
+          }
+          document.write("Last Modified date: "+lastCommit.date+"<br\>");
+          document.write("Last Commit Revision: "+lastCommit.revision+"<br\>");
+          </script></p>
+          <p><a class="btn btn-default" href="assignment11" role="button">View details &raquo;</a></p>
+       </div>
+        
+      </div>
+      <div class="row">
+      <div class="col-md-4">
+          <h2>Assignment1.2</h2>
+          <p><script type="text/javascript">
+          var lastCommit = null;
+          var entries = window.svn_list.entry;
+          for (var i = 0; i < entries.length; i++){
+            var entry = entries[i];
+            if(entry.name.indexOf("Assignment1.2") >= 0){
+              var commit = entry.commit;
+              if(lastCommit == null)
+                lastCommit = commit;
+              if(commit.revision > lastCommit.revision){
+                lastCommit = commit;
+              }
+            }
+          }
+          document.write("Last Modified date: "+lastCommit.date+"<br\>");
+          document.write("Last Commit Revision: "+lastCommit.revision+"<br\>");
+          </script></p>
+          <p><a class="btn btn-default" href="assignment12" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Assignment2.0</h2>
+          <p><script type="text/javascript">
+          var lastCommit = null;
+          var entries = window.svn_list.entry;
+          for (var i = 0; i < entries.length; i++){
+            var entry = entries[i];
+            if(entry.name.indexOf("Assignment2.0") >= 0){
+              var commit = entry.commit;
+              if(lastCommit == null)
+                lastCommit = commit;
+              if(commit.revision > lastCommit.revision){
+                lastCommit = commit;
+              }
+            }
+          }
+          document.write("Last Modified date: "+lastCommit.date+"<br\>");
+          document.write("Last Commit Revision: "+lastCommit.revision+"<br\>");
+          </script></p>
+          <p><a class="btn btn-default" href="assignment20" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Assignment2.1</h2>
+                    <p><script type="text/javascript">
+          var lastCommit = null;
+          var entries = window.svn_list.entry;
+          for (var i = 0; i < entries.length; i++){
+            var entry = entries[i];
+            if(entry.name.indexOf("Assignment2.1") >= 0){
+              var commit = entry.commit;
+              if(lastCommit == null)
+                lastCommit = commit;
+              if(commit.revision > lastCommit.revision){
+                lastCommit = commit;
+              }
+            }
+          }
+          document.write("Last Modified date: "+lastCommit.date+"<br\>");
+          document.write("Last Commit Revision: "+lastCommit.revision+"<br\>");
+          </script></p>
+          <p><a class="btn btn-default" href="assignment21" role="button">View details &raquo;</a></p>
+       </div>
+       
+      </div>
+    <div id="footer"></div>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

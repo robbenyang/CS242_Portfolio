@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- <link rel="shortcut icon" href="../../assets/ico/favicon.ico"> -->
+    <title>Zhengqiyang.com</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+	   <!-- Customized CSS for this page-->
+	   <link href="css/jumbotron.css" rel="stylesheet">
+  </head>
+  <script> 
+  $(function(){
+    $("#header").load("header"); 
+    $("#footer").load("footer"); 
+  });
+    var svn_list_json=$.ajax({
+    url:'/svn_list.json',
+    type:'post',
+    async:false
+    });
+    var svn_list = JSON.parse(svn_list_json.responseText);
+    window.svn_list = svn_list.lists.list;
+    var svn_log_json=$.ajax({
+    url:'/svn_log.json',
+    type:'post',
+    async:false});
+    window.svn_log = JSON.parse(svn_log_json.responseText);
+  </script>
+  <body>
+    <!--Load header-->
+    <div id="header"></div>
+    <div class="container">
+    <h2>Assignment0</h2>
+    <hr>
+    <div class="row" id="files">
+    <p></p>
+    <script type="text/javascript">
+      var svn_log = window.svn_log;
+      var entries = window.svn_list.entry;
+      for(var i in entries){
+        var entry = entries[i];
+        if(entry.name.indexOf("Assignment0") >= 0){
+          if(entry.size){
+          $('p').append(entry.name+"<br>Size: "+
+            entry.size+"<br>Revision: "+entry.commit.revision+
+            "<br>Date: "+entry.commit.date+"<br><hr>");
+          }
+          else{
+            $('p').append(entry.name+"<br>Revision: "
+              +entry.commit.revision+"<br>Date: "+
+              entry.commit.date+"<br><hr>");
+          
+            
+          }
+        }
+      }
+    </script>
+    </div>
+    <div class="row">
+    <div class="col-md-6" id="commentlist">
+      <h2>Comments</h2>
+      <p id="comments"></p>
+      <script type="text/javascript">
+      $("#comments").html("");
+        var comments = $.ajax({
+          url:'/getcomments',
+          type:'post',
+          data:{'db':'Assignment0'}
+        }).done(function(data){
+          window.data = data;
+        for(var i in data){
+          $("#comments").append("<p id="+data[i]['_id']+">"+data[i]['comment']+"</p><br>");
+
+          //Add a reply button
+          var btn = document.createElement("button");
+          btn.setAttribute("id", data[i]['_id']+"button");
+          btn.appendChild(document.createTextNode("Reply"));
+          var comments = document.getElementById(data[i]['_id']);
+          btn.setAttribute("class", "btn btn-default");
+          
+          //Add a report button
+          var reportBtn = document.createElement("button");
+          reportBtn.appendChild(document.createTextNode("Report"));
+          reportBtn.setAttribute("class", "btn btn-default")
+          comments.appendChild(btn);
+          comments.appendChild(reportBtn);
+
+          btn.onclick = function(){
+            var curID = this.id;
+            var tgtID = curID.substring(0, curID.length-6);
+            //alert(tgtID);
+            var com = document.getElementById(tgtID);
+            var str = com.innerHTML.substring(0, com.innerHTML.indexOf("<button"));
+            //alert(str);
+            var comBox = document.getElementById('text1');
+            comBox.innerHTML = "Reply to \""+str+"\":\n";
+          };
+          
+          reportBtn.onclick = function(){
+            //Need to connect to database
+            alert("Thank you for reporting!");
+          }
+
+        }
+        });
+                  
+      </script>
+      <!--"<br><button class=\"btn btn-default\">reply</button><hr>"-->
+    </div>
+    <div class="col-md-6 form-group">
+      <form name="comment">
+        <textarea id="text1" cols="50" rows="5" class="form-control" placeholder="Comment here..."></textarea>
+        <br />
+        <button id="subcom" type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <script type="text/javascript">
+      $('button#subcom').click(function(){
+          var value1 = $('textarea#text1').val();
+          $.ajax({
+              url: '/addcomment',
+              type: 'post',
+              data: {'db' : 'Assignment0', 
+                'comment' : value1 },
+              success: function(data, text){
+                alert("Comment Submitted");
+              },
+              error: function(jqXHR, textStatus, errorThrown){
+                showResultFailed(jqXHR.responseText);
+                alert("Comment failed");
+              }
+              });/*
+            }).done(function(data){
+            alert(data);
+            alert("comment submitted");
+          }).fail(function(data){
+
+            alert("comment failed"+data);
+          });*/
+        });
+      </script>
+    </div>
+      
+    </div><!-- row -->
+    </div><!-- container -->
+    <div id="footer"></div> 
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

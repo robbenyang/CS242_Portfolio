@@ -1,0 +1,4702 @@
+{
+  "lists": {
+    "list": {
+      "path": "https://subversion.ews.illinois.edu/svn/sp14-cs242/zyang36",
+      "entry": [
+        {
+          "kind": "dir",
+          "name": "Assignment0",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/Data.java",
+          "size": 569,
+          "commit": {
+            "revision": 1301,
+            "author": "zyang36",
+            "date": "2014-01-30T04:44:51.443722Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/DatabaseAdapter.java",
+          "size": 2790,
+          "commit": {
+            "revision": 1301,
+            "author": "zyang36",
+            "date": "2014-01-30T04:44:51.443722Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/Search.java",
+          "size": 342,
+          "commit": {
+            "revision": 1301,
+            "author": "zyang36",
+            "date": "2014-01-30T04:44:51.443722Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/WriteView.java",
+          "size": 4929,
+          "commit": {
+            "revision": 1301,
+            "author": "zyang36",
+            "date": "2014-01-30T04:44:51.443722Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/handwriting.java",
+          "size": 6699,
+          "commit": {
+            "revision": 1301,
+            "author": "zyang36",
+            "date": "2014-01-30T04:44:51.443722Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/main_activity.java",
+          "size": 5530,
+          "commit": {
+            "revision": 1301,
+            "author": "zyang36",
+            "date": "2014-01-30T04:44:51.443722Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.classpath",
+          "size": 466,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/HEAD",
+          "size": 23,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/branches",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/config",
+          "size": 277,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/description",
+          "size": 73,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/hooks",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/applypatch-msg.sample",
+          "size": 452,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/commit-msg.sample",
+          "size": 896,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/post-update.sample",
+          "size": 189,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/pre-applypatch.sample",
+          "size": 398,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/pre-commit.sample",
+          "size": 1704,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/pre-rebase.sample",
+          "size": 4898,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/prepare-commit-msg.sample",
+          "size": 1239,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/hooks/update.sample",
+          "size": 3611,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/index",
+          "size": 18472,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/info",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/info/exclude",
+          "size": 240,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/logs",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/logs/HEAD",
+          "size": 198,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/logs/refs",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/logs/refs/heads",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/logs/refs/heads/master",
+          "size": 198,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/logs/refs/remotes",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/logs/refs/remotes/origin",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/logs/refs/remotes/origin/HEAD",
+          "size": 198,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/objects",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/objects/info",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/objects/pack",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/objects/pack/pack-476c8bf2e459818b3fbef25616a2a742c150f61c.idx",
+          "size": 15604,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/objects/pack/pack-476c8bf2e459818b3fbef25616a2a742c150f61c.pack",
+          "size": 5768159,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/packed-refs",
+          "size": 94,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/refs",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/refs/heads",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/refs/heads/master",
+          "size": 41,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/refs/remotes",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/refs/remotes/origin",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.git/refs/remotes/origin/HEAD",
+          "size": 32,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.git/refs/tags",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.gitignore",
+          "size": 45,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.project",
+          "size": 820,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/.settings",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/.settings/org.eclipse.jdt.core.prefs",
+          "size": 173,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/AndroidManifest.xml",
+          "size": 995,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/README.md",
+          "size": 88,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/AndroidManifest.xml",
+          "size": 995,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/SearchableNotepad.apk",
+          "size": 436115,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/classes",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/classes/com",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/BuildConfig.class",
+          "size": 367,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/Point.class",
+          "size": 808,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$attr.class",
+          "size": 373,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$drawable.class",
+          "size": 440,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$id.class",
+          "size": 894,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$layout.class",
+          "size": 512,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$menu.class",
+          "size": 458,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$string.class",
+          "size": 1047,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R$style.class",
+          "size": 464,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/R.class",
+          "size": 724,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/Segment.class",
+          "size": 1161,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/WriteView$1.class",
+          "size": 844,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/WriteView$2.class",
+          "size": 844,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/WriteView$WriteListener.class",
+          "size": 1962,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/WriteView.class",
+          "size": 6687,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/handwriting$1.class",
+          "size": 900,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/handwriting.class",
+          "size": 8183,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes/com/example/searchablenotepad/main_activity.class",
+          "size": 6344,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/classes.dex",
+          "size": 575300,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/dexedLibs",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/dexedLibs/android-support-v4-ae7d30fb3534c3a7fcaaf8866a0432d2.jar",
+          "size": 189231,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/jarlist.cache",
+          "size": 120,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/res",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-hdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-hdpi/ic_launcher.png",
+          "size": 5964,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-mdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-mdpi/ic_launcher.png",
+          "size": 3112,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-xhdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-xhdpi/ic_launcher.png",
+          "size": 9355,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-xxhdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/res/drawable-xxhdpi/ic_launcher.png",
+          "size": 17889,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/bin/resources.ap_",
+          "size": 43810,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/gen",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/gen/com",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/gen/com/example",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/gen/com/example/searchablenotepad",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/gen/com/example/searchablenotepad/BuildConfig.java",
+          "size": 171,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/gen/com/example/searchablenotepad/R.java",
+          "size": 3832,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/ic_launcher-web.png",
+          "size": 51394,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/Android.mk",
+          "size": 626,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/Application.mk",
+          "size": 24,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/recognize.cpp",
+          "size": 3139,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/AUTHORS",
+          "size": 28,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/COPYING",
+          "size": 1494,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/ChangeLog",
+          "size": 0,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/INSTALL",
+          "size": 11410,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/Makefile",
+          "size": 31249,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/Makefile.am",
+          "size": 3242,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/Makefile.in",
+          "size": 31212,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/Makefile.msvc",
+          "size": 1029,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/Makefile.msvc.in",
+          "size": 1037,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/NEWS",
+          "size": 0,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/README",
+          "size": 19,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/aclocal.m4",
+          "size": 317354,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/character.cpp",
+          "size": 4891,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/common.h",
+          "size": 3448,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/config.guess",
+          "size": 44892,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/config.h",
+          "size": 3087,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/config.h.in",
+          "size": 2892,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/config.log",
+          "size": 4043,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/config.status",
+          "size": 68666,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/config.sub",
+          "size": 33387,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/configure",
+          "size": 574715,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/configure.in",
+          "size": 6190,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/annotated.html",
+          "size": 1878,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Character-members.html",
+          "size": 6485,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Character.html",
+          "size": 20801,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Recognizer-members.html",
+          "size": 3828,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Recognizer.html",
+          "size": 10915,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Result-members.html",
+          "size": 2412,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Result.html",
+          "size": 5483,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Trainer-members.html",
+          "size": 3578,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/classzinnia_1_1Trainer.html",
+          "size": 10678,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/doxygen.css",
+          "size": 8175,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/doxygen.png",
+          "size": 1281,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/files.html",
+          "size": 1482,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/functions.html",
+          "size": 7389,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/functions_func.html",
+          "size": 7330,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/globals.html",
+          "size": 7123,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/globals_func.html",
+          "size": 6631,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/globals_type.html",
+          "size": 1925,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/index.html",
+          "size": 1040,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/namespacemembers.html",
+          "size": 1992,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/namespacemembers_func.html",
+          "size": 1900,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/namespaces.html",
+          "size": 1452,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/namespacezinnia.html",
+          "size": 5832,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/tab_b.gif",
+          "size": 35,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/tab_l.gif",
+          "size": 706,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/tab_r.gif",
+          "size": 2585,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/tabs.css",
+          "size": 1762,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/zinnia_8h-source.html",
+          "size": 38009,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/doxygen/zinnia_8h.html",
+          "size": 63918,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/index-ja.html",
+          "size": 13872,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/index.html",
+          "size": 11235,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/zinnia.cfg",
+          "size": 56515,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/doc/zinnia.css",
+          "size": 3243,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/feature.cpp",
+          "size": 5103,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/feature.h",
+          "size": 1382,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/freelist.h",
+          "size": 1464,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/install-sh",
+          "size": 13620,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/libtool",
+          "size": 264130,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/libzinnia.cpp",
+          "size": 11679,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/ltmain.sh",
+          "size": 243469,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/missing",
+          "size": 11135,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/mmap.h",
+          "size": 5012,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/param.cpp",
+          "size": 5932,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/param.h",
+          "size": 2406,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/perl",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/perl/Makefile.PL",
+          "size": 283,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/perl/test.pl",
+          "size": 1300,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/perl/zinnia.pm",
+          "size": 4957,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/perl/zinnia_wrap.cxx",
+          "size": 114879,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/python",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/python/README",
+          "size": 353,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/python/setup.py",
+          "size": 315,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/python/test.py",
+          "size": 1187,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/python/zinnia.py",
+          "size": 6911,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/python/zinnia_wrap.cxx",
+          "size": 161297,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/recognizer.cpp",
+          "size": 4921,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/ruby",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/ruby/extconf.rb",
+          "size": 205,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/ruby/test.rb",
+          "size": 1084,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/ruby/zinnia_wrap.cpp",
+          "size": 118745,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/scoped_ptr.h",
+          "size": 1830,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/sdk",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/sdk/example.c",
+          "size": 2737,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/sdk/example.cpp",
+          "size": 1981,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/sexp.cpp",
+          "size": 3350,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/sexp.h",
+          "size": 1997,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/stamp-h1",
+          "size": 23,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/stream_wrapper.h",
+          "size": 1398,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/svm.cpp",
+          "size": 2899,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/svm.h",
+          "size": 443,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/swig",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/swig/Makefile",
+          "size": 873,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/swig/version.h",
+          "size": 44,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/swig/version.h.in",
+          "size": 49,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/swig/zinnia.i",
+          "size": 1313,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/trainer.cpp",
+          "size": 9225,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia",
+          "size": 5360,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia.cpp",
+          "size": 270,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia.h",
+          "size": 8401,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia.pc",
+          "size": 283,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia.pc.in",
+          "size": 304,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia_convert",
+          "size": 5400,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia_convert.cpp",
+          "size": 283,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia_learn",
+          "size": 5390,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/jni/zinnia/zinnia_learn.cpp",
+          "size": 279,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/libs",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/libs/android-support-v4.jar",
+          "size": 484258,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/libs/armeabi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/obj",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/obj/local",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/recognize.o.d",
+          "size": 1100,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/character.o.d",
+          "size": 2192,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/feature.o.d",
+          "size": 999,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/libzinnia.o.d",
+          "size": 2208,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/param.o.d",
+          "size": 2089,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/recognizer.o.d",
+          "size": 5155,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/sexp.o.d",
+          "size": 664,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/svm.o.d",
+          "size": 944,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/trainer.o.d",
+          "size": 5397,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/obj/local/armeabi/objs/CharRecognizer/zinnia/zinnia.o.d",
+          "size": 291,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/proguard-project.txt",
+          "size": 781,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/project.properties",
+          "size": 563,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/drawable-hdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/drawable-hdpi/ic_launcher.png",
+          "size": 7658,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/drawable-mdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/drawable-mdpi/ic_launcher.png",
+          "size": 3777,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/drawable-xhdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/drawable-xhdpi/ic_launcher.png",
+          "size": 12516,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/drawable-xxhdpi",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/drawable-xxhdpi/ic_launcher.png",
+          "size": 24777,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/layout",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/layout/handwriting.xml",
+          "size": 1527,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/layout/main_scrollview.xml",
+          "size": 497,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/layout/search_activity.xml",
+          "size": 800,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/menu",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/menu/main.xml",
+          "size": 368,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/menu/writepad_menu.xml",
+          "size": 296,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/values",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/values/strings.xml",
+          "size": 1006,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/values/styles.xml",
+          "size": 680,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/values-v11",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/values-v11/styles.xml",
+          "size": 324,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/res/values-v14",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/res/values-v14/styles.xml",
+          "size": 381,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/src",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/src/com",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/src/com/example",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad",
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad/Data.java",
+          "size": 569,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad/DatabaseAdapter.java",
+          "size": 2790,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad/Search.java",
+          "size": 342,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad/WriteView.java",
+          "size": 4929,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad/handwriting.java",
+          "size": 6699,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment0/searchable_notepad/src/com/example/searchablenotepad/main_activity.java",
+          "size": 5530,
+          "commit": {
+            "revision": 1957,
+            "author": "zyang36",
+            "date": "2014-01-31T01:39:34.085378Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/.idea",
+          "commit": {
+            "revision": 2695,
+            "author": "zyang36",
+            "date": "2014-02-05T05:35:50.633674Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/ChessGame.iml",
+          "size": 131,
+          "commit": {
+            "revision": 3219,
+            "author": "zyang36",
+            "date": "2014-02-07T01:14:37.195721Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/Doxyfile",
+          "size": 77197,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/GUI_test_plan.txt",
+          "size": 907,
+          "commit": {
+            "revision": 4428,
+            "author": "zyang36",
+            "date": "2014-02-14T01:27:07.943556Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/README.txt",
+          "size": 5800,
+          "commit": {
+            "revision": 4349,
+            "author": "zyang36",
+            "date": "2014-02-13T21:47:41.677459Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/img",
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackBishop.png",
+          "size": 3517,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackBishop100.png",
+          "size": 3155,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackKing.png",
+          "size": 8176,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackKing100.png",
+          "size": 6144,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackKnight.png",
+          "size": 5190,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackKnight100.png",
+          "size": 4017,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackPawn.png",
+          "size": 2164,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackPawn100.png",
+          "size": 1872,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackQueen.png",
+          "size": 7573,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackQueen100.png",
+          "size": 6133,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackRook.png",
+          "size": 1826,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/BlackRook100.png",
+          "size": 1719,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteBishop.png",
+          "size": 6172,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteBishop100.png",
+          "size": 4976,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteKing.png",
+          "size": 7547,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteKing100.png",
+          "size": 5769,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteKnight.png",
+          "size": 6570,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteKnight100.png",
+          "size": 4771,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhitePawn.png",
+          "size": 4128,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhitePawn100.png",
+          "size": 3142,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteQueen.png",
+          "size": 9408,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteQueen100.png",
+          "size": 7856,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteRook.png",
+          "size": 1953,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/img/WhiteRook100.png",
+          "size": 1957,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/lib",
+          "commit": {
+            "revision": 3219,
+            "author": "zyang36",
+            "date": "2014-02-07T01:14:37.195721Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/screenshot_chessboard.png",
+          "size": 231844,
+          "commit": {
+            "revision": 4428,
+            "author": "zyang36",
+            "date": "2014-02-14T01:27:07.943556Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/src",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/src/chess_lib",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/src/chess_lib/GUI",
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/GUI/ChessGUI.java",
+          "size": 5669,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/GUI/Square.java",
+          "size": 1870,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/src/chess_lib/main",
+          "commit": {
+            "revision": 4414,
+            "author": "zyang36",
+            "date": "2014-02-14T01:10:29.917191Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Bishop.java",
+          "size": 1028,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/ChessBoard.java",
+          "size": 6244,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/King.java",
+          "size": 999,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Knight.java",
+          "size": 1088,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Move.java",
+          "size": 127,
+          "commit": {
+            "revision": 3220,
+            "author": "zyang36",
+            "date": "2014-02-07T01:15:06.835121Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Pawn.java",
+          "size": 3480,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Pieces.java",
+          "size": 8589,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Queen.java",
+          "size": 1142,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Rook.java",
+          "size": 998,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/main/Superman.java",
+          "size": 1214,
+          "commit": {
+            "revision": 4414,
+            "author": "zyang36",
+            "date": "2014-02-14T01:10:29.917191Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.0/src/chess_lib/test",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/BishopTest.java",
+          "size": 3263,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/ChessBoardTest.java",
+          "size": 3824,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/KingTest.java",
+          "size": 830,
+          "commit": {
+            "revision": 3239,
+            "author": "zyang36",
+            "date": "2014-02-07T01:39:05.867959Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/KnightTest.java",
+          "size": 745,
+          "commit": {
+            "revision": 3241,
+            "author": "zyang36",
+            "date": "2014-02-07T01:44:43.442191Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/PawnTest.java",
+          "size": 900,
+          "commit": {
+            "revision": 3239,
+            "author": "zyang36",
+            "date": "2014-02-07T01:39:05.867959Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/QueenTest.java",
+          "size": 809,
+          "commit": {
+            "revision": 3239,
+            "author": "zyang36",
+            "date": "2014-02-07T01:39:05.867959Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/RookTest.java",
+          "size": 2742,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.0/src/chess_lib/test/SupermanTest.java",
+          "size": 4032,
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1",
+          "commit": {
+            "revision": 4460,
+            "author": "zyang36",
+            "date": "2014-02-14T01:51:05.267960Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/.idea",
+          "commit": {
+            "revision": 2695,
+            "author": "zyang36",
+            "date": "2014-02-05T05:35:50.633674Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/ChessGame.iml",
+          "size": 131,
+          "commit": {
+            "revision": 3219,
+            "author": "zyang36",
+            "date": "2014-02-07T01:14:37.195721Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/Doxyfile",
+          "size": 77197,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/GUI_test_plan.txt",
+          "size": 907,
+          "commit": {
+            "revision": 4428,
+            "author": "zyang36",
+            "date": "2014-02-14T01:27:07.943556Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/README.txt",
+          "size": 5800,
+          "commit": {
+            "revision": 4349,
+            "author": "zyang36",
+            "date": "2014-02-13T21:47:41.677459Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/img",
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackBishop.png",
+          "size": 3517,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackBishop100.png",
+          "size": 3155,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackKing.png",
+          "size": 8176,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackKing100.png",
+          "size": 6144,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackKnight.png",
+          "size": 5190,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackKnight100.png",
+          "size": 4017,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackPawn.png",
+          "size": 2164,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackPawn100.png",
+          "size": 1872,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackQueen.png",
+          "size": 7573,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackQueen100.png",
+          "size": 6133,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackRook.png",
+          "size": 1826,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/BlackRook100.png",
+          "size": 1719,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteBishop.png",
+          "size": 6172,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteBishop100.png",
+          "size": 4976,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteKing.png",
+          "size": 7547,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteKing100.png",
+          "size": 5769,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteKnight.png",
+          "size": 6570,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteKnight100.png",
+          "size": 4771,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhitePawn.png",
+          "size": 4128,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhitePawn100.png",
+          "size": 3142,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteQueen.png",
+          "size": 9408,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteQueen100.png",
+          "size": 7856,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteRook.png",
+          "size": 1953,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/img/WhiteRook100.png",
+          "size": 1957,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/lib",
+          "commit": {
+            "revision": 3219,
+            "author": "zyang36",
+            "date": "2014-02-07T01:14:37.195721Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/screenshot_chessboard.png",
+          "size": 231844,
+          "commit": {
+            "revision": 4428,
+            "author": "zyang36",
+            "date": "2014-02-14T01:27:07.943556Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/src",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/src/chess_lib",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/src/chess_lib/GUI",
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/GUI/ChessGUI.java",
+          "size": 5669,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/GUI/Square.java",
+          "size": 1870,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/src/chess_lib/main",
+          "commit": {
+            "revision": 4414,
+            "author": "zyang36",
+            "date": "2014-02-14T01:10:29.917191Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Bishop.java",
+          "size": 1028,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/ChessBoard.java",
+          "size": 6244,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/King.java",
+          "size": 999,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Knight.java",
+          "size": 1088,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Move.java",
+          "size": 127,
+          "commit": {
+            "revision": 3220,
+            "author": "zyang36",
+            "date": "2014-02-07T01:15:06.835121Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Pawn.java",
+          "size": 3480,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Pieces.java",
+          "size": 8589,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Queen.java",
+          "size": 1142,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Rook.java",
+          "size": 998,
+          "commit": {
+            "revision": 4413,
+            "author": "zyang36",
+            "date": "2014-02-14T01:09:59.870680Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/main/Superman.java",
+          "size": 1214,
+          "commit": {
+            "revision": 4414,
+            "author": "zyang36",
+            "date": "2014-02-14T01:10:29.917191Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.1/src/chess_lib/test",
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/BishopTest.java",
+          "size": 3263,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/ChessBoardTest.java",
+          "size": 3824,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/KingTest.java",
+          "size": 830,
+          "commit": {
+            "revision": 3239,
+            "author": "zyang36",
+            "date": "2014-02-07T01:39:05.867959Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/KnightTest.java",
+          "size": 745,
+          "commit": {
+            "revision": 3241,
+            "author": "zyang36",
+            "date": "2014-02-07T01:44:43.442191Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/PawnTest.java",
+          "size": 900,
+          "commit": {
+            "revision": 3239,
+            "author": "zyang36",
+            "date": "2014-02-07T01:39:05.867959Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/QueenTest.java",
+          "size": 809,
+          "commit": {
+            "revision": 3239,
+            "author": "zyang36",
+            "date": "2014-02-07T01:39:05.867959Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/RookTest.java",
+          "size": 2742,
+          "commit": {
+            "revision": 4387,
+            "author": "zyang36",
+            "date": "2014-02-13T23:35:06.999434Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.1/src/chess_lib/test/SupermanTest.java",
+          "size": 4032,
+          "commit": {
+            "revision": 4455,
+            "author": "zyang36",
+            "date": "2014-02-14T01:47:42.741585Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2",
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/.idea",
+          "commit": {
+            "revision": 2695,
+            "author": "zyang36",
+            "date": "2014-02-05T05:35:50.633674Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Assignment1.2.iml",
+          "size": 656,
+          "commit": {
+            "revision": 5107,
+            "author": "zyang36",
+            "date": "2014-02-17T20:31:18.371468Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/ChessGame.iml",
+          "size": 131,
+          "commit": {
+            "revision": 3219,
+            "author": "zyang36",
+            "date": "2014-02-07T01:14:37.195721Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Doxyfile",
+          "size": 77197,
+          "commit": {
+            "revision": 4248,
+            "author": "zyang36",
+            "date": "2014-02-13T17:58:21.553762Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/GUI_test_plan.txt",
+          "size": 1045,
+          "commit": {
+            "revision": 5838,
+            "author": "zyang36",
+            "date": "2014-02-21T01:53:46.375936Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/README.txt",
+          "size": 5800,
+          "commit": {
+            "revision": 4349,
+            "author": "zyang36",
+            "date": "2014-02-13T21:47:41.677459Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/Tests",
+          "commit": {
+            "revision": 5838,
+            "author": "zyang36",
+            "date": "2014-02-21T01:53:46.375936Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/Check_condition.png",
+          "size": 85486,
+          "commit": {
+            "revision": 5838,
+            "author": "zyang36",
+            "date": "2014-02-21T01:53:46.375936Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/GameEndandScore.png",
+          "size": 83137,
+          "commit": {
+            "revision": 5838,
+            "author": "zyang36",
+            "date": "2014-02-21T01:53:46.375936Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/Game_ending.png",
+          "size": 79075,
+          "commit": {
+            "revision": 5838,
+            "author": "zyang36",
+            "date": "2014-02-21T01:53:46.375936Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/Warning.png",
+          "size": 87282,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/illegal_move.png",
+          "size": 89490,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/illegal_move2.png",
+          "size": 91655,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/initial_board.png",
+          "size": 79137,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/piece_selected.png",
+          "size": 80271,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/successful_move1.png",
+          "size": 77269,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/Tests/successful_move2.png",
+          "size": 81853,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/changeLog.txt",
+          "size": 733,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/img",
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/BlackBishop100.png",
+          "size": 3155,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/BlackKing100.png",
+          "size": 6144,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/BlackKnight100.png",
+          "size": 4017,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/BlackPawn100.png",
+          "size": 1872,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/BlackQueen100.png",
+          "size": 6133,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/BlackRook100.png",
+          "size": 1719,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/WhiteBishop100.png",
+          "size": 4976,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/WhiteKing100.png",
+          "size": 5769,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/WhiteKnight100.png",
+          "size": 4771,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/WhitePawn100.png",
+          "size": 3142,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/WhiteQueen100.png",
+          "size": 7856,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/img/WhiteRook100.png",
+          "size": 1957,
+          "commit": {
+            "revision": 5087,
+            "author": "zyang36",
+            "date": "2014-02-17T16:40:54.006363Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/lib",
+          "commit": {
+            "revision": 3219,
+            "author": "zyang36",
+            "date": "2014-02-07T01:14:37.195721Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/screenshot_chessboard.png",
+          "size": 231844,
+          "commit": {
+            "revision": 4428,
+            "author": "zyang36",
+            "date": "2014-02-14T01:27:07.943556Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src",
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib",
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/Controller",
+          "commit": {
+            "revision": 5839,
+            "author": "zyang36",
+            "date": "2014-02-21T01:59:11.611084Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/BoardController.java",
+          "size": 3336,
+          "commit": {
+            "revision": 5839,
+            "author": "zyang36",
+            "date": "2014-02-21T01:59:11.611084Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/EndGameListener.java",
+          "size": 106,
+          "commit": {
+            "revision": 5838,
+            "author": "zyang36",
+            "date": "2014-02-21T01:53:46.375936Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/ForfeitListener.java",
+          "size": 1012,
+          "commit": {
+            "revision": 5800,
+            "author": "zyang36",
+            "date": "2014-02-21T01:09:13.917324Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/Gameloop.java",
+          "size": 473,
+          "commit": {
+            "revision": 5800,
+            "author": "zyang36",
+            "date": "2014-02-21T01:09:13.917324Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/PieceController.java",
+          "size": 630,
+          "commit": {
+            "revision": 5508,
+            "author": "zyang36",
+            "date": "2014-02-20T08:05:25.164075Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/RestartListener.java",
+          "size": 573,
+          "commit": {
+            "revision": 5800,
+            "author": "zyang36",
+            "date": "2014-02-21T01:09:13.917324Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Controller/UndoListener.java",
+          "size": 524,
+          "commit": {
+            "revision": 5747,
+            "author": "zyang36",
+            "date": "2014-02-20T22:55:42.165351Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/Model",
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Bishop.java",
+          "size": 1457,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/BoardModel.java",
+          "size": 7945,
+          "commit": {
+            "revision": 5807,
+            "author": "zyang36",
+            "date": "2014-02-21T01:35:48.614788Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Check.java",
+          "size": 1426,
+          "commit": {
+            "revision": 5841,
+            "author": "zyang36",
+            "date": "2014-02-21T02:00:43.059993Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/King.java",
+          "size": 1428,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Knight.java",
+          "size": 1516,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Move.java",
+          "size": 167,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Pawn.java",
+          "size": 4329,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Pieces.java",
+          "size": 8589,
+          "commit": {
+            "revision": 5807,
+            "author": "zyang36",
+            "date": "2014-02-21T01:35:48.614788Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Queen.java",
+          "size": 1737,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Rook.java",
+          "size": 1426,
+          "commit": {
+            "revision": 5845,
+            "author": "zyang36",
+            "date": "2014-02-21T02:06:12.179609Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/SquareKnight.java",
+          "size": 1312,
+          "commit": {
+            "revision": 5844,
+            "author": "zyang36",
+            "date": "2014-02-21T02:03:48.217511Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Model/Superman.java",
+          "size": 1527,
+          "commit": {
+            "revision": 5747,
+            "author": "zyang36",
+            "date": "2014-02-20T22:55:42.165351Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/Test",
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/Test/ControllerTest",
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ControllerTest/ControllerTest.java",
+          "size": 468,
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest",
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/BishopTest.java",
+          "size": 3274,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/BoardModelTest.java",
+          "size": 3836,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/KingTest.java",
+          "size": 813,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/KnightTest.java",
+          "size": 756,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/PawnTest.java",
+          "size": 883,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/QueenTest.java",
+          "size": 822,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/RookTest.java",
+          "size": 2756,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/Test/ModelTest/SupermanTest.java",
+          "size": 4043,
+          "commit": {
+            "revision": 5507,
+            "author": "zyang36",
+            "date": "2014-02-20T08:04:56.464892Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/Test/ViewTest",
+          "commit": {
+            "revision": 5801,
+            "author": "zyang36",
+            "date": "2014-02-21T01:10:04.027964Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment1.2/src/chess_lib/View",
+          "commit": {
+            "revision": 5844,
+            "author": "zyang36",
+            "date": "2014-02-21T02:03:48.217511Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/View/BoardView.java",
+          "size": 7851,
+          "commit": {
+            "revision": 5844,
+            "author": "zyang36",
+            "date": "2014-02-21T02:03:48.217511Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment1.2/src/chess_lib/View/Square.java",
+          "size": 2368,
+          "commit": {
+            "revision": 5747,
+            "author": "zyang36",
+            "date": "2014-02-20T22:55:42.165351Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.0",
+          "commit": {
+            "revision": 6753,
+            "author": "zyang36",
+            "date": "2014-02-28T01:54:21.449410Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.0/GraphLib",
+          "commit": {
+            "revision": 6752,
+            "author": "zyang36",
+            "date": "2014-02-28T01:51:34.387439Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.0/GraphLib/__init__.py",
+          "size": 58,
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.0/GraphLib/__pycache__",
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.0/GraphLib/graphlib.py",
+          "size": 1171,
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.0/GraphLib/map_utils.py",
+          "size": 2519,
+          "commit": {
+            "revision": 6752,
+            "author": "zyang36",
+            "date": "2014-02-28T01:51:34.387439Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.0/Tests",
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.0/Tests/UnitTests.py",
+          "size": 3072,
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.0/interface.py",
+          "size": 2263,
+          "commit": {
+            "revision": 6753,
+            "author": "zyang36",
+            "date": "2014-02-28T01:54:21.449410Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.0/reference.txt",
+          "size": 119,
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.1",
+          "commit": {
+            "revision": 7631,
+            "author": "zyang36",
+            "date": "2014-03-07T02:02:59.450253Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.1/GraphLib",
+          "commit": {
+            "revision": 7631,
+            "author": "zyang36",
+            "date": "2014-03-07T02:02:59.450253Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/GraphLib/__init__.py",
+          "size": 58,
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.1/GraphLib/__pycache__",
+          "commit": {
+            "revision": 6750,
+            "author": "zyang36",
+            "date": "2014-02-28T01:40:28.739497Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/GraphLib/graphlib.py",
+          "size": 4687,
+          "commit": {
+            "revision": 7631,
+            "author": "zyang36",
+            "date": "2014-03-07T02:02:59.450253Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/GraphLib/map_utils.py",
+          "size": 4575,
+          "commit": {
+            "revision": 7619,
+            "author": "zyang36",
+            "date": "2014-03-07T01:33:57.650820Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "Assignment2.1/Tests",
+          "commit": {
+            "revision": 7619,
+            "author": "zyang36",
+            "date": "2014-03-07T01:33:57.650820Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/Tests/UnitTests.py",
+          "size": 3180,
+          "commit": {
+            "revision": 7619,
+            "author": "zyang36",
+            "date": "2014-03-07T01:33:57.650820Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/changeLog.txt",
+          "size": 283,
+          "commit": {
+            "revision": 7619,
+            "author": "zyang36",
+            "date": "2014-03-07T01:33:57.650820Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/interface.py",
+          "size": 7206,
+          "commit": {
+            "revision": 7631,
+            "author": "zyang36",
+            "date": "2014-03-07T02:02:59.450253Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/map_data.json",
+          "size": 16098,
+          "commit": {
+            "revision": 7143,
+            "author": "zyang36",
+            "date": "2014-03-03T17:47:45.275534Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "Assignment2.1/reference.txt",
+          "size": 255,
+          "commit": {
+            "revision": 7619,
+            "author": "zyang36",
+            "date": "2014-03-07T01:33:57.650820Z"
+          }
+        },
+        {
+          "kind": "dir",
+          "name": "shopping",
+          "commit": {
+            "revision": 694,
+            "author": "zyang36",
+            "date": "2014-01-29T03:49:01.972330Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "shopping/list1.txt",
+          "size": 56,
+          "commit": {
+            "revision": 635,
+            "author": "zyang36",
+            "date": "2014-01-29T02:50:28.429917Z"
+          }
+        },
+        {
+          "kind": "file",
+          "name": "shopping/list2.txt",
+          "size": 76,
+          "commit": {
+            "revision": 661,
+            "author": "zyang36",
+            "date": "2014-01-29T03:20:57.491331Z"
+          }
+        }
+      ]
+    }
+  }
+}

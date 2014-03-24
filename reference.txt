@@ -1,0 +1,5 @@
+learn expressjs app, mongodb from:
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+
+Avoid SQL injection
+http://stackoverflow.com/questions/5021456/how-does-mongodb-avoid-the-sql-injection-mess
